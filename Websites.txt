@@ -1,0 +1,3 @@
+https://uk.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon
+https://stackoverflow.com/questions/56233365/should-i-transform-constraint-optimization-to-unconstrained-optimization
+https://math.stackexchange.com/questions/75077/mapping-the-real-line-to-the-unit-interval
